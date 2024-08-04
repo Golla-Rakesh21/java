@@ -8,7 +8,7 @@ public class PerfectNumber {
         System.out.print("Enter a number : ");
         num=sc.nextInt();
         int temp=num;
-        if(num==1){
+        if(num==1 && num==0){
             System.out.println("Not a perfect number");
         }
         else{
