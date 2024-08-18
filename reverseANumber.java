@@ -3,7 +3,6 @@ package reverseofanumber;
 import java.util.*;
 public class ReverseOfANumber {
     public static void main(String[] args) {
-        // TODO code application logic here
         int num;
         int sum=0;
         Scanner sc=new Scanner(System.in);
