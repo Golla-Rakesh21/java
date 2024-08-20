@@ -3,7 +3,6 @@ package primefactors;
 import java.util.Scanner;
 public class PrimeFactors {
     public static void main(String[] args) {
-        // TODO code application logic here
         int n;
         Scanner sc=new Scanner(System.in);
         System.out.print("enter n : " );
